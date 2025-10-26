@@ -1,0 +1,8 @@
+.git
+.mvn
+.idea
+.gitignore
+pom.xml
+README.md
+target/*
+!target/*.jar
